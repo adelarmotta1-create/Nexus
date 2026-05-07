@@ -1,0 +1,8 @@
+{
+  "name": "Nexus 360",
+  "description": "Um Sistema Operacional de Alta Performance Pessoal e Profissional integrando Tempo, Corpo, Dinheiro e Carreira, impulsionado por IA adaptativa.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
